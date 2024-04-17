@@ -1,0 +1,33 @@
+{
+    "intents": [
+      {
+        "pattern": "what is your name",
+        "answer": "My name is ChatGPT. How can I assist you today?"
+      },
+      {
+        "pattern": "how are you",
+        "answer": "I'm functioning well, thank you! How can I help you?"
+      },
+      {
+        "pattern": "help",
+        "answer": "Of course! What do you need assistance with?"
+      },
+      {
+        "input": "What type of engine does the vehicle have?",
+        "output": "The vehicle is equipped with a TwinPower Turbo inline 6-cylinder diesel engine."
+      },
+      {
+        "input": "Tell me about the transmission of the vehicle.",
+        "output": "The vehicle comes with an 8-speed sport automatic transmission, Steptronic with gearshift paddles."
+      },
+      {
+        "input": "What are the driving modes available?",
+        "output": "The vehicle has Driving Experience Control with Sport, Comfort, and ECO PRO modes."
+      },
+      {
+        "input": "How do I start the vehicle?",
+        "output": "You can start the vehicle with the Start/Stop button."
+      }     
+      
+    ]
+  }

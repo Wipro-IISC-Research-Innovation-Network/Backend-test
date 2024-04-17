@@ -1,0 +1,35 @@
+{
+  "name": "chatbot-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next dev",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@firebase/app": "^0.9.25",
+    "@firebase/firestore": "^4.4.0",
+    "annyang": "^2.6.1",
+    "autoprefixer": "10.4.15",
+    "axios": "^1.5.0",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "firebase": "^10.7.1",
+    "next": "^13.4.19",
+    "postcss": "^8.4.31",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-speech-kit": "^3.0.1",
+    "react-speech-recognition": "^3.10.0",
+    "regenerator-runtime": "^0.14.0",
+    "sentence-splitter": "^4.2.1",
+    "socket.io-client": "^4.7.2",
+    "tailwindcss": "^3.3.3"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.22.20",
+    "@babel/preset-react": "^7.22.15"
+  }
+}
